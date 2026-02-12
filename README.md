@@ -29,4 +29,5 @@ Este proyecto fue creado como una aplicación libre utilizando Node.js como tecn
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/BotFantasy.git
+[git clone https://github.com/TU_USUARIO/BotFantasy.git
+](https://github.com/jorgealvarezmanilla7838-svg/Bot)
